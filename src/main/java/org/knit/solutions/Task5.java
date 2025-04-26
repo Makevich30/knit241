@@ -5,7 +5,7 @@ import org.knit.solutions.lab1.File;
 import org.knit.solutions.lab1.FileSystemComponent;
 import org.knit.solutions.lab1.Folder;
 
-@TaskDescription(taskNumber = 5, taskDescription = "Краткое описание задачи 5", href = "org/knit/solutions/taskExampleClasses/README.md")
+@TaskDescription(taskNumber = 5, taskDescription = "Реализация файловой системы с использованием паттерна Компоновщик", href = "org/knit/solutions/taskExampleClasses/README.md")
 public class Task5 implements Solution {
     @Override
     public void execute() {

@@ -7,7 +7,7 @@ import org.knit.solutions.lab1.Shape;
 import org.knit.solutions.lab1.Sphere;
 
 
-@TaskDescription(taskNumber = 4, taskDescription = "", href = "org/knit/solutions/taskExampleClasses/README.md")
+@TaskDescription(taskNumber = 4, taskDescription = "Реализация классов для объемных фигур и контейнера", href = "org/knit/solutions/taskExampleClasses/README.md")
 public class Task4 implements Solution {
     @Override
     public void execute() {
